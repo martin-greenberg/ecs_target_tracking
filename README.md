@@ -130,7 +130,7 @@ the minimum task count.
 
 ![ecs events scale in 1](images/ecs_events_scale_in_1.png)
 (continued)
-![ecs events scale in 2](images/ecs_events_scale_in_1.png)
+![ecs events scale in 2](images/ecs_events_scale_in_2.png)
 
 If we look at our baseline request graph, we see that requests are much lower than our 
 scaling threshold, but we maintain the minimum number of tasks, for redundancy.
